@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 iniciando na programação.<br>💼 Cursando ADS no Senai  | 2024 - 2025 |<br>🔭 busco por aprendizado a cada dia. <br>🌱 Penso em ingressar na área em um futuro próximo.<br>🗣️ Aberto para criticas!
+📚 Estudante TI.<br>💼 Cursando ADS no Senai  | 2024 - 2025 |<br>🔭 busco por aprendizado a cada dia. <br>🌱 Penso em ingressar na área em um futuro próximo.<br>🗣️ Aberto para criticas!
 
 
 ## 🌐 Socials:
