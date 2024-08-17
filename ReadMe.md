@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-📚 Estudante TI.<br>💼 Cursando ADS no Senai  | 2024 - 2025 |<br>🔭 Busco por aprendizado a cada dia. <br>🌱 Penso em ingressar na área em um futuro próximo.<br>🗣️ Aberto para criticas!
+📚 Estudante TI.<br>💼 Cursando ADS no Senai  | 2024 - 2025 |<br>🔭 Busco por aprendizado a cada dia. <br>🌱 Iniciando Carreira.<br>🗣️ Aberto para criticas!
 
 
 ## 🌐 Redes Sociais:
