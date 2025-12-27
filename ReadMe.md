@@ -1,9 +1,9 @@
-# 💫 Sobre Mim:
-📚 Estudante TI.<br>💼 Cursando ADS no Senai  | 2024 - 2025 |<br>🔭 Busco por aprendizado a cada dia. <br>🌱 Iniciando Carreira.<br>🗣️ Aberto para criticas!
+# 👤 Sobre Mim:
+📚 Estudante<br>💼 Técnico em Análise e Desenvolvimento de Sistemas no Senai  | 2024 - 2025 |<br>🔭 Busco por aprendizado a cada dia. <br>🌱 Iniciando Carreira.<br>🗣️ Aberto para criticas!
 
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murilo.hstorres) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-torres-3195612a8/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murilo.hstorres) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilohstorres/)
 
 # 💻 Estudando:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
